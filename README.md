@@ -2,9 +2,9 @@
 
 Proyek ini berisi halaman profil sederhana yang dibungkus dengan Docker menggunakan image dasar nginx:alpine, lalu dijalankan sebagai container.
 
-##Nama:** Resty Putri Septiani
-##NIM:** 202557201049
-##Mata kuliah:** Teknologi Open Source (Minggu 9: Pengenalan Containerization)
+**Nama:** Resty Putri Septiani
+**NIM:** 202557201049
+**Mata kuliah:** Teknologi Open Source (Minggu 9: Pengenalan Containerization)
 
 ## Isi Repositori
 - `Dockerfile`: resep untuk membuat image
